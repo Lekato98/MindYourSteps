@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.27",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "8ccaa876-0408-4ac8-927e-273373733a2e",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "JumpAudioSrc"
+  }
+}

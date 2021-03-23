@@ -1,0 +1,54 @@
+{
+  "__version__": "3.0.0",
+  "game": {
+    "app_id": "663278482",
+    "name": "MindYourStep_20210321195728",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "30321f"
+    },
+    {
+      "app_id": "663278480",
+      "config_id": "6e6581"
+    },
+    {
+      "app_id": "663278482",
+      "config_id": "11ccdd"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "30321f",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "663278480",
+      "config_id": "6e6581",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "663278482",
+      "config_id": "11ccdd",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {
+            "app_id": "663278482",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}

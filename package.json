@@ -1,0 +1,18 @@
+{
+  "name": "mind-your-steps",
+  "type": "3d",
+  "uuid": "f3fa89b2-9b76-4d94-b46f-d5522ab03096",
+  "version": "3.0.0",
+  "dependencies": {
+    "browserslist": "^4.16.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
